@@ -7,8 +7,6 @@ binventory-service/src/main/java/com/davidmuns/inventoryservice/repository/Inven
 Qorder-service/src/main/java/com/davidmuns/orderservice/dto/InventoryResponse.java,6\c\6c8fceb13135c926669def860c41e12d7a806f5c
 |
 Lorder-service/src/main/java/com/davidmuns/orderservice/dto/OrderRequest.java,d\8\d87f4dceb668ae1a39106729e0edaa2c2823aea2
-í
-binventory-service/src/main/java/com/davidmuns/inventoryservice/controller/InventoryController.java,0\2\02d7521d64179771da132f97471de71660e2bb4a
 Ü
 Vorder-service/src/main/java/com/davidmuns/orderservice/controller/OrderController.java,e\4\e41a8da29f8e976e69960752e92c26939e5f1bf5
 Ç
@@ -17,5 +15,3 @@ Rorder-service/src/main/java/com/davidmuns/orderservice/config/WebClientConfig.j
 Porder-service/src/main/java/com/davidmuns/orderservice/service/OrderService.java,9\0\90e27765076952b1e3680ba21364e97b87fbab25
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-è
-_inventory-service/src/main/java/com/davidmuns/inventoryservice/InventoryServiceApplication.java,3\a\3a5182a3d60f10d3fa7e9252a528abf92d532c8c
