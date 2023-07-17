@@ -11,3 +11,15 @@ Projects in this repository:
 Project architecture
 
 ![project architecture](./architecture.bmp)
+
+Discovery service pattern
+
+![project architecture](./discovery-service-pattern.jpg)
+
+Communication with discovery service
+
+![project architecture](./communication-with-discovery.jpg)
+
+Servic registry copy
+
+![project architecture](./service-registry-copy.jpg)
