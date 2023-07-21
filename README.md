@@ -2,9 +2,11 @@
 
 Projects in this repository:
 
-- [Product service](./product-service)
-- [Order service](./order-service)
-- [Inventory service](./inventory-service)
+- [Discovery server](./discovery-server/src/main/java)
+- [API Gateway](./api-gateway/src/main/java)
+- [Product service](./product-service/src/main/java)
+- [Order service](./order-service/src/main/java)
+- [Inventory service](./inventory-service/src/main/java)
 
 ![services list](./services.bmp)
 
@@ -20,6 +22,11 @@ Communication with discovery service
 
 ![project architecture](./communication-with-discovery.jpg)
 
-Servic registry copy
+Service registry copy
 
 ![project architecture](./service-registry-copy.jpg)
+
+API Gateway
+
+
+![project architecture](./api-gateway.jpg)
